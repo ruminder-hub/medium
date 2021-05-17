@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ruminderhub</groupId>
-	<artifactId>spring_cloud_config</artifactId>
+	<artifactId>spring_cloud_config_server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring_cloud_config</name>
+	<name>spring_cloud_config_server</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
