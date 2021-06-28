@@ -1,2 +1,3 @@
-# mysql-golang
-Creating MySQL database connection in GoLang
+# golang-http
+
+## Creating GoLang Project and APIs
